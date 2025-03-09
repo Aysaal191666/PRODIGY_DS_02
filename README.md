@@ -27,3 +27,8 @@ It explores **patterns, trends, and survival rates** using `pandas`, `seaborn`, 
 4. View the genrated graphs and cleaned dataset.📊
 
 📊 Example Visualizations
+![Titanic EDA Output](data-visualization.png)
+
+📁 Dataset Source
+Data sourced from **Kaggle**:  
+[🔗 Titanic Dataset - Kaggle](https://www.kaggle.com/c/titanic/data)
